@@ -1,0 +1,2 @@
+merchant_service_fee_pct
+avg_cbv_all_order
